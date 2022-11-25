@@ -1,0 +1,4 @@
+{
+    "DefaultValue15": "#slider3 > div >input[type=range]",
+    "Rangesuccess": "#rangeSuccess"
+}

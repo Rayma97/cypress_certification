@@ -1,0 +1,13 @@
+{
+    "baseUrl": "https://www.lambdatest.com/selenium-playground",
+    "ignoreTestFiles": [
+        "cypress/integration/examples/*.js"
+    ],
+    "viewportWidth": 1840,
+    "viewportHeight": 1000,
+    "defaultCommandTimeout": 5000,
+    "video": true,
+    "screenshotOnRunFailure": true,
+    "log": true,
+    "projectId": "5eeoy5"
+}
